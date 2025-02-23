@@ -1,4 +1,4 @@
-# SpaceData-Inc
+# SpaceData Robotics
 
 ### Hi there 👋
 - [SpaceData-Inc.](https://spacedata.jp/)
